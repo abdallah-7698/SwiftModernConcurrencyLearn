@@ -1,0 +1,40 @@
+{
+  "id": 19,
+  "name": "Ashley Allen",
+  "email": "ashley.allen@sample.org",
+  "age": 65,
+  "timestamp": "2025-05-10T06:46:25Z",
+  "address": {
+    "street": "5360 School Road",
+    "city": "San Jose",
+    "state": "CA",
+    "zipcode": "95122"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "201-576-8307"
+    },
+    {
+      "type": "work",
+      "number": "626-560-8504"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "blue"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2022-10-15T22:34:55Z",
+    "last_login": "2025-05-05T11:28:12Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Requires high-priority support."
+}

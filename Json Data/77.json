@@ -1,0 +1,36 @@
+{
+  "id": 77,
+  "name": "Joshua King",
+  "email": "joshua.king@example.com",
+  "age": 53,
+  "timestamp": "2025-05-09T03:46:21Z",
+  "address": {
+    "street": "4439 Ocean Drive",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zipcode": "46292"
+  },
+  "phoneNumbers": [
+    {
+      "type": "mobile",
+      "number": "417-276-6130"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": true
+    },
+    "theme": "pastel"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2022-04-18T02:27:03Z",
+    "last_login": "2025-05-09T09:30:06Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Early adopter of new features."
+}

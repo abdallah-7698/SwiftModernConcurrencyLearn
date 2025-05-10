@@ -1,0 +1,41 @@
+{
+  "id": 23,
+  "name": "Mark Perez",
+  "email": "mark.perez@sample.org",
+  "age": 20,
+  "timestamp": "2025-05-10T07:22:31Z",
+  "address": {
+    "street": "1063 Ocean Drive",
+    "city": "Columbus",
+    "state": "OH",
+    "zipcode": "43223"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "469-320-8729"
+    },
+    {
+      "type": "work",
+      "number": "760-464-5679"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": true
+    },
+    "theme": "purple"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2024-03-03T09:58:30Z",
+    "last_login": "2025-05-08T15:03:23Z"
+  },
+  "roles": [
+    "user",
+    "premium"
+  ],
+  "notes": "High volume user with extensive history."
+}

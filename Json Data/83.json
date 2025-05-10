@@ -1,0 +1,40 @@
+{
+  "id": 83,
+  "name": "Nancy Walker",
+  "email": "nancy.walker@example.com",
+  "age": 50,
+  "timestamp": "2025-05-09T21:26:04Z",
+  "address": {
+    "street": "6472 Elm Street",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipcode": "90029"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "305-901-3530"
+    },
+    {
+      "type": "work",
+      "number": "516-579-6347"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": true,
+      "sms": true
+    },
+    "theme": "green"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2024-06-01T17:51:38Z",
+    "last_login": "2025-05-03T05:44:00Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Enterprise customer with multiple seats."
+}

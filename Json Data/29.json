@@ -1,0 +1,40 @@
+{
+  "id": 29,
+  "name": "Ashley King",
+  "email": "ashley.king@example.com",
+  "age": 34,
+  "timestamp": "2025-05-09T09:48:23Z",
+  "address": {
+    "street": "8529 Summit Drive",
+    "city": "Dallas",
+    "state": "TX",
+    "zipcode": "75279"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "617-807-1336"
+    },
+    {
+      "type": "work",
+      "number": "315-761-2658"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": true
+    },
+    "theme": "pastel"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2022-01-06T13:43:39Z",
+    "last_login": "2025-05-06T20:19:01Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Uses legacy features extensively."
+}

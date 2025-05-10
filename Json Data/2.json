@@ -1,0 +1,36 @@
+{
+  "id": 2,
+  "name": "Edward White",
+  "email": "edward.white@sample.org",
+  "age": 26,
+  "timestamp": "2025-05-09T00:58:45Z",
+  "address": {
+    "street": "9022 Hill Road",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zipcode": "19184"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "213-321-1552"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "light"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-03-18T13:11:11Z",
+    "last_login": "2025-05-04T19:04:03Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Has reported several bugs with detailed feedback."
+}

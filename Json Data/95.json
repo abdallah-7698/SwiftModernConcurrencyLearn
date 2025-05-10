@@ -1,0 +1,41 @@
+{
+  "id": 95,
+  "name": "Steven Green",
+  "email": "steven.green@example.com",
+  "age": 28,
+  "timestamp": "2025-05-09T06:39:41Z",
+  "address": {
+    "street": "4113 1st Avenue",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zipcode": "76184"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "417-573-2638"
+    },
+    {
+      "type": "work",
+      "number": "305-283-3134"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": true
+    },
+    "theme": "dark"
+  },
+  "accountStatus": {
+    "active": false,
+    "created_at": "2024-06-27T15:02:48Z",
+    "last_login": "2025-05-03T07:52:57Z"
+  },
+  "roles": [
+    "user",
+    "moderator"
+  ],
+  "notes": "Very active in product feedback sessions."
+}

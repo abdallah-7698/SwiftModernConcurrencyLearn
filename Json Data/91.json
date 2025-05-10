@@ -1,0 +1,40 @@
+{
+  "id": 91,
+  "name": "Stephanie Jackson",
+  "email": "stephanie.jackson@example.com",
+  "age": 40,
+  "timestamp": "2025-05-10T08:21:56Z",
+  "address": {
+    "street": "5488 Sunset Boulevard",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zipcode": "46273"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "623-801-8297"
+    },
+    {
+      "type": "work",
+      "number": "516-970-1096"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": false,
+      "sms": false
+    },
+    "theme": "dark"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2024-03-28T02:59:25Z",
+    "last_login": "2025-05-07T00:37:49Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Early adopter of new features."
+}

@@ -1,0 +1,40 @@
+{
+  "id": 87,
+  "name": "Donald Clark",
+  "email": "donald.clark@example.com",
+  "age": 44,
+  "timestamp": "2025-05-09T09:13:08Z",
+  "address": {
+    "street": "3623 Broadway",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipcode": "78257"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "516-378-8026"
+    },
+    {
+      "type": "work",
+      "number": "617-388-8859"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": true,
+      "sms": true
+    },
+    "theme": "light"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2022-06-27T07:53:45Z",
+    "last_login": "2025-05-01T07:17:55Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Technical background, frequent feature requester."
+}

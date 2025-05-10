@@ -1,0 +1,36 @@
+{
+  "id": 11,
+  "name": "George Adams",
+  "email": "george.adams@sample.org",
+  "age": 64,
+  "timestamp": "2025-05-10T09:32:27Z",
+  "address": {
+    "street": "7163 Hill Road",
+    "city": "New York",
+    "state": "NY",
+    "zipcode": "10067"
+  },
+  "phoneNumbers": [
+    {
+      "type": "mobile",
+      "number": "281-812-2962"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": false,
+      "sms": false
+    },
+    "theme": "purple"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-01-23T01:00:43Z",
+    "last_login": "2025-05-03T11:01:51Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Uses legacy features extensively."
+}

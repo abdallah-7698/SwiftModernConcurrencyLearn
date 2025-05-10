@@ -1,0 +1,40 @@
+{
+  "id": 82,
+  "name": "Patricia Clark",
+  "email": "patricia.clark@sample.org",
+  "age": 39,
+  "timestamp": "2025-05-09T13:31:38Z",
+  "address": {
+    "street": "8815 Lincoln Avenue",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94173"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "417-600-1743"
+    },
+    {
+      "type": "work",
+      "number": "424-589-2997"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "contrast"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2024-10-12T12:16:37Z",
+    "last_login": "2025-05-03T11:09:30Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Very active in product feedback sessions."
+}

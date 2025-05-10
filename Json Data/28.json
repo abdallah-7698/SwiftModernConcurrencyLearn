@@ -1,0 +1,40 @@
+{
+  "id": 28,
+  "name": "Susan Anderson",
+  "email": "susan.anderson@example.com",
+  "age": 58,
+  "timestamp": "2025-05-09T19:40:35Z",
+  "address": {
+    "street": "704 Center Avenue",
+    "city": "Chicago",
+    "state": "IL",
+    "zipcode": "60641"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "757-522-4268"
+    },
+    {
+      "type": "work",
+      "number": "626-667-2216"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": true,
+      "sms": true
+    },
+    "theme": "green"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-06-08T18:24:18Z",
+    "last_login": "2025-05-03T02:38:56Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Premium subscriber since 2023."
+}

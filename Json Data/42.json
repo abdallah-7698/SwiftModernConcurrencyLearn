@@ -1,0 +1,40 @@
+{
+  "id": 42,
+  "name": "Sandra Allen",
+  "email": "sandra.allen@sample.org",
+  "age": 38,
+  "timestamp": "2025-05-09T02:59:19Z",
+  "address": {
+    "street": "7734 Summit Drive",
+    "city": "New York",
+    "state": "NY",
+    "zipcode": "10079"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "657-413-5432"
+    },
+    {
+      "type": "work",
+      "number": "518-289-9819"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "pastel"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-10-30T14:53:58Z",
+    "last_login": "2025-05-01T13:00:16Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Prefers email contact over phone."
+}

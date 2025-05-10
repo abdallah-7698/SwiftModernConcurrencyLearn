@@ -1,0 +1,40 @@
+{
+  "id": 96,
+  "name": "Sarah Lee",
+  "email": "sarah.lee@sample.org",
+  "age": 26,
+  "timestamp": "2025-05-09T05:08:33Z",
+  "address": {
+    "street": "3954 Summit Drive",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipcode": "78216"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "503-321-2766"
+    },
+    {
+      "type": "work",
+      "number": "571-522-7741"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": false,
+      "sms": false
+    },
+    "theme": "contrast"
+  },
+  "accountStatus": {
+    "active": false,
+    "created_at": "2024-10-19T11:14:32Z",
+    "last_login": "2025-05-02T07:13:49Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Very active in product feedback sessions."
+}

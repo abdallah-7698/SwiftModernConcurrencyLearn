@@ -1,0 +1,40 @@
+{
+  "id": 26,
+  "name": "Timothy Hernandez",
+  "email": "timothy.hernandez@sample.org",
+  "age": 37,
+  "timestamp": "2025-05-10T00:57:34Z",
+  "address": {
+    "street": "9761 River Road",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipcode": "78256"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "650-355-9689"
+    },
+    {
+      "type": "work",
+      "number": "732-651-6528"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "system"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2022-10-02T20:53:01Z",
+    "last_login": "2025-05-05T19:26:07Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Developer utilizing the API extensively."
+}

@@ -1,0 +1,40 @@
+{
+  "id": 31,
+  "name": "Amanda Walker",
+  "email": "amanda.walker@sample.org",
+  "age": 63,
+  "timestamp": "2025-05-09T10:43:35Z",
+  "address": {
+    "street": "620 Hill Road",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipcode": "90086"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "401-813-1752"
+    },
+    {
+      "type": "work",
+      "number": "713-655-6006"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": true
+    },
+    "theme": "auto"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2022-10-25T04:14:34Z",
+    "last_login": "2025-05-09T12:53:13Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Early adopter of new features."
+}

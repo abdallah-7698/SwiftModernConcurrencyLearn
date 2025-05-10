@@ -1,0 +1,40 @@
+{
+  "id": 15,
+  "name": "Robert Lee",
+  "email": "robert.lee@sample.org",
+  "age": 21,
+  "timestamp": "2025-05-09T22:19:11Z",
+  "address": {
+    "street": "4421 Church Street",
+    "city": "Austin",
+    "state": "TX",
+    "zipcode": "78785"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "215-502-8041"
+    },
+    {
+      "type": "work",
+      "number": "201-481-8953"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "green"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2022-12-26T08:29:35Z",
+    "last_login": "2025-05-01T14:40:16Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Prefers email contact over phone."
+}

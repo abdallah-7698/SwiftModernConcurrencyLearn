@@ -1,0 +1,41 @@
+{
+  "id": 67,
+  "name": "Ronald Wilson",
+  "email": "ronald.wilson@sample.org",
+  "age": 27,
+  "timestamp": "2025-05-09T20:15:18Z",
+  "address": {
+    "street": "301 1st Avenue",
+    "city": "New York",
+    "state": "NY",
+    "zipcode": "10035"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "516-297-1250"
+    },
+    {
+      "type": "work",
+      "number": "775-746-7272"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": true,
+      "sms": true
+    },
+    "theme": "dark"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2022-01-31T03:17:29Z",
+    "last_login": "2025-05-04T15:35:20Z"
+  },
+  "roles": [
+    "user",
+    "contributor"
+  ],
+  "notes": "Has reported several bugs with detailed feedback."
+}

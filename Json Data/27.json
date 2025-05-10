@@ -1,0 +1,40 @@
+{
+  "id": 27,
+  "name": "John Hall",
+  "email": "john.hall@example.com",
+  "age": 51,
+  "timestamp": "2025-05-10T00:01:28Z",
+  "address": {
+    "street": "4296 Oak Avenue",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zipcode": "32299"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "757-757-9718"
+    },
+    {
+      "type": "work",
+      "number": "281-916-8469"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "contrast"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2024-06-05T08:05:11Z",
+    "last_login": "2025-05-05T07:36:37Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Frequent contributor to community forums."
+}

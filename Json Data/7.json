@@ -1,0 +1,40 @@
+{
+  "id": 7,
+  "name": "Edward Moore",
+  "email": "edward.moore@example.com",
+  "age": 58,
+  "timestamp": "2025-05-09T06:51:17Z",
+  "address": {
+    "street": "8319 Center Avenue",
+    "city": "Chicago",
+    "state": "IL",
+    "zipcode": "60648"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "714-213-2270"
+    },
+    {
+      "type": "work",
+      "number": "201-431-2463"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": true,
+      "sms": true
+    },
+    "theme": "pastel"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2022-03-19T18:44:55Z",
+    "last_login": "2025-05-08T04:29:58Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "High volume user with extensive history."
+}

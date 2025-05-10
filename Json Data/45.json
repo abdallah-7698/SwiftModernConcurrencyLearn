@@ -1,0 +1,41 @@
+{
+  "id": 45,
+  "name": "David Lopez",
+  "email": "david.lopez@example.com",
+  "age": 27,
+  "timestamp": "2025-05-09T13:28:54Z",
+  "address": {
+    "street": "5119 Elm Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zipcode": "94171"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "312-982-5329"
+    },
+    {
+      "type": "work",
+      "number": "314-857-5200"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "blue"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2024-01-24T01:23:26Z",
+    "last_login": "2025-05-02T05:58:49Z"
+  },
+  "roles": [
+    "user",
+    "viewer"
+  ],
+  "notes": "Premium subscriber since 2023."
+}

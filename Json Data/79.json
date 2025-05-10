@@ -1,0 +1,40 @@
+{
+  "id": 79,
+  "name": "David Baker",
+  "email": "david.baker@sample.org",
+  "age": 57,
+  "timestamp": "2025-05-10T10:52:15Z",
+  "address": {
+    "street": "7142 1st Avenue",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zipcode": "32239"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "650-490-9967"
+    },
+    {
+      "type": "work",
+      "number": "310-458-1879"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": true
+    },
+    "theme": "system"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-10-11T02:44:17Z",
+    "last_login": "2025-05-09T16:49:52Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Very active in product feedback sessions."
+}

@@ -1,0 +1,40 @@
+{
+  "id": 63,
+  "name": "Deborah Jones",
+  "email": "deborah.jones@example.com",
+  "age": 59,
+  "timestamp": "2025-05-09T19:06:03Z",
+  "address": {
+    "street": "4029 Park Boulevard",
+    "city": "Houston",
+    "state": "TX",
+    "zipcode": "77058"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "214-821-2551"
+    },
+    {
+      "type": "work",
+      "number": "650-377-7596"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": true
+    },
+    "theme": "auto"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-05-02T16:30:11Z",
+    "last_login": "2025-05-06T08:56:05Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "New user, still exploring features."
+}

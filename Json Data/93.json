@@ -1,0 +1,40 @@
+{
+  "id": 93,
+  "name": "Mark Lewis",
+  "email": "mark.lewis@sample.org",
+  "age": 20,
+  "timestamp": "2025-05-10T08:13:35Z",
+  "address": {
+    "street": "7909 Church Street",
+    "city": "San Diego",
+    "state": "CA",
+    "zipcode": "92167"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "619-897-4763"
+    },
+    {
+      "type": "work",
+      "number": "757-440-4810"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": true
+    },
+    "theme": "contrast"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-04-08T12:32:21Z",
+    "last_login": "2025-05-05T02:10:40Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Technical background, frequent feature requester."
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3,
+  "name": "Edward Perez",
+  "email": "edward.perez@example.com",
+  "age": 29,
+  "timestamp": "2025-05-09T18:24:33Z",
+  "address": {
+    "street": "7268 Main St",
+    "city": "Columbus",
+    "state": "OH",
+    "zipcode": "43289"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "310-328-3328"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": false,
+      "sms": false
+    },
+    "theme": "purple"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-09-15T03:19:08Z",
+    "last_login": "2025-05-04T16:27:01Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "New user, still exploring features."
+}

@@ -1,0 +1,40 @@
+{
+  "id": 17,
+  "name": "Carol Nguyen",
+  "email": "carol.nguyen@example.com",
+  "age": 45,
+  "timestamp": "2025-05-10T11:28:12Z",
+  "address": {
+    "street": "2802 Valley Way",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zipcode": "76194"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "417-869-4324"
+    },
+    {
+      "type": "work",
+      "number": "212-488-5561"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "light"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-12-01T16:47:46Z",
+    "last_login": "2025-05-08T22:14:33Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Uses legacy features extensively."
+}

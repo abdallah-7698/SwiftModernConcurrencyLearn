@@ -1,0 +1,40 @@
+{
+  "id": 55,
+  "name": "Maria Clark",
+  "email": "maria.clark@sample.org",
+  "age": 18,
+  "timestamp": "2025-05-09T15:51:36Z",
+  "address": {
+    "street": "5267 Valley Way",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zipcode": "76146"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "626-887-7445"
+    },
+    {
+      "type": "work",
+      "number": "417-541-6389"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "auto"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-10-23T06:02:08Z",
+    "last_login": "2025-05-03T02:16:48Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Has custom integration requirements."
+}

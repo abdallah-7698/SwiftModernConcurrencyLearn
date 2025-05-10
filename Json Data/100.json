@@ -1,0 +1,40 @@
+{
+  "id": 100,
+  "name": "Brian Thomas",
+  "email": "brian.thomas@example.com",
+  "age": 43,
+  "timestamp": "2025-05-09T04:53:39Z",
+  "address": {
+    "street": "9647 Oak Avenue",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zipcode": "46222"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "469-366-2571"
+    },
+    {
+      "type": "work",
+      "number": "760-862-4427"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "green"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-11-09T15:03:19Z",
+    "last_login": "2025-05-09T15:11:55Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Premium subscriber since 2023."
+}

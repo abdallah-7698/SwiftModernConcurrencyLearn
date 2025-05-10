@@ -1,0 +1,40 @@
+{
+  "id": 58,
+  "name": "Linda Thomas",
+  "email": "linda.thomas@sample.org",
+  "age": 21,
+  "timestamp": "2025-05-10T00:35:33Z",
+  "address": {
+    "street": "7832 Valley Way",
+    "city": "Dallas",
+    "state": "TX",
+    "zipcode": "75297"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "213-447-4389"
+    },
+    {
+      "type": "work",
+      "number": "773-417-3958"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "pastel"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2024-06-21T01:47:16Z",
+    "last_login": "2025-05-01T11:45:44Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Has reported several bugs with detailed feedback."
+}

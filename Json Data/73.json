@@ -1,0 +1,36 @@
+{
+  "id": 73,
+  "name": "Michelle Clark",
+  "email": "michelle.clark@sample.org",
+  "age": 37,
+  "timestamp": "2025-05-09T19:20:37Z",
+  "address": {
+    "street": "1774 River Road",
+    "city": "San Jose",
+    "state": "CA",
+    "zipcode": "95114"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "404-956-4089"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": false,
+      "sms": false
+    },
+    "theme": "auto"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-09-23T09:10:06Z",
+    "last_login": "2025-05-01T07:33:36Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Early adopter of new features."
+}

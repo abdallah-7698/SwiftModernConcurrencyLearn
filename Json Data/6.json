@@ -1,0 +1,40 @@
+{
+  "id": 6,
+  "name": "Paul Jones",
+  "email": "paul.jones@example.com",
+  "age": 61,
+  "timestamp": "2025-05-10T08:13:24Z",
+  "address": {
+    "street": "662 Center Avenue",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zipcode": "85024"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "646-590-4773"
+    },
+    {
+      "type": "work",
+      "number": "623-879-9810"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": false,
+      "sms": false
+    },
+    "theme": "system"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2024-11-29T11:36:49Z",
+    "last_login": "2025-05-06T19:06:47Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Enterprise customer with multiple seats."
+}

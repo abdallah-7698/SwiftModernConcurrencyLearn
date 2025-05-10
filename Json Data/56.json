@@ -1,0 +1,41 @@
+{
+  "id": 56,
+  "name": "Nancy Martinez",
+  "email": "nancy.martinez@sample.org",
+  "age": 64,
+  "timestamp": "2025-05-09T00:44:13Z",
+  "address": {
+    "street": "3709 Ocean Drive",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zipcode": "85048"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "212-698-3671"
+    },
+    {
+      "type": "work",
+      "number": "615-953-4085"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "system"
+  },
+  "accountStatus": {
+    "active": false,
+    "created_at": "2023-11-22T11:00:25Z",
+    "last_login": "2025-05-03T19:17:41Z"
+  },
+  "roles": [
+    "user",
+    "premium"
+  ],
+  "notes": "Requires high-priority support."
+}

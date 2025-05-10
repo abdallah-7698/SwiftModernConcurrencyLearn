@@ -1,0 +1,37 @@
+{
+  "id": 88,
+  "name": "Robert Ramirez",
+  "email": "robert.ramirez@example.com",
+  "age": 46,
+  "timestamp": "2025-05-09T12:24:31Z",
+  "address": {
+    "street": "2739 Valley Way",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipcode": "90088"
+  },
+  "phoneNumbers": [
+    {
+      "type": "mobile",
+      "number": "623-515-3896"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "system"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-12-20T01:32:12Z",
+    "last_login": "2025-05-08T03:22:03Z"
+  },
+  "roles": [
+    "user",
+    "premium"
+  ],
+  "notes": "Early adopter of new features."
+}

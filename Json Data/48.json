@@ -1,0 +1,41 @@
+{
+  "id": 48,
+  "name": "William Scott",
+  "email": "william.scott@example.com",
+  "age": 57,
+  "timestamp": "2025-05-09T15:07:19Z",
+  "address": {
+    "street": "7898 Cedar Lane",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zipcode": "85071"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "773-691-7271"
+    },
+    {
+      "type": "work",
+      "number": "480-728-6492"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": false,
+      "sms": true
+    },
+    "theme": "system"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-02-01T05:28:38Z",
+    "last_login": "2025-05-08T19:54:12Z"
+  },
+  "roles": [
+    "user",
+    "admin"
+  ],
+  "notes": "Educational account for classroom use."
+}

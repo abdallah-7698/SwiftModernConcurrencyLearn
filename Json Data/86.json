@@ -1,0 +1,41 @@
+{
+  "id": 86,
+  "name": "Daniel Wilson",
+  "email": "daniel.wilson@sample.org",
+  "age": 19,
+  "timestamp": "2025-05-09T16:23:01Z",
+  "address": {
+    "street": "6899 Cedar Lane",
+    "city": "San Diego",
+    "state": "CA",
+    "zipcode": "92194"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "516-398-4328"
+    },
+    {
+      "type": "work",
+      "number": "213-534-7888"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": true,
+      "sms": true
+    },
+    "theme": "system"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-04-02T18:40:52Z",
+    "last_login": "2025-05-08T08:48:17Z"
+  },
+  "roles": [
+    "user",
+    "contributor"
+  ],
+  "notes": "Educational account for classroom use."
+}

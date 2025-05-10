@@ -1,0 +1,40 @@
+{
+  "id": 30,
+  "name": "Michael Taylor",
+  "email": "michael.taylor@sample.org",
+  "age": 59,
+  "timestamp": "2025-05-09T07:56:47Z",
+  "address": {
+    "street": "2030 Lake Drive",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zipcode": "85015"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "619-379-7677"
+    },
+    {
+      "type": "work",
+      "number": "401-255-2328"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": false,
+      "sms": false
+    },
+    "theme": "purple"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2022-12-26T01:40:56Z",
+    "last_login": "2025-05-04T02:05:48Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Power user who utilizes advanced features."
+}

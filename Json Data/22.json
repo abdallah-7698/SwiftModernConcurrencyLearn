@@ -1,0 +1,41 @@
+{
+  "id": 22,
+  "name": "Maria Robinson",
+  "email": "maria.robinson@example.com",
+  "age": 28,
+  "timestamp": "2025-05-09T04:36:14Z",
+  "address": {
+    "street": "5002 Center Avenue",
+    "city": "Dallas",
+    "state": "TX",
+    "zipcode": "75239"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "781-549-2847"
+    },
+    {
+      "type": "work",
+      "number": "201-471-6280"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "green"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-05-22T15:18:04Z",
+    "last_login": "2025-05-01T22:16:07Z"
+  },
+  "roles": [
+    "user",
+    "guest"
+  ],
+  "notes": "Frequent contributor to community forums."
+}

@@ -1,0 +1,41 @@
+{
+  "id": 33,
+  "name": "Ashley Adams",
+  "email": "ashley.adams@example.com",
+  "age": 65,
+  "timestamp": "2025-05-09T02:12:07Z",
+  "address": {
+    "street": "3033 Valley Way",
+    "city": "Dallas",
+    "state": "TX",
+    "zipcode": "75283"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "212-942-1405"
+    },
+    {
+      "type": "work",
+      "number": "305-749-4926"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "purple"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2024-11-21T11:00:02Z",
+    "last_login": "2025-05-01T17:16:17Z"
+  },
+  "roles": [
+    "user",
+    "editor"
+  ],
+  "notes": "Power user who utilizes advanced features."
+}

@@ -1,0 +1,40 @@
+{
+  "id": 35,
+  "name": "Ashley Hill",
+  "email": "ashley.hill@example.com",
+  "age": 62,
+  "timestamp": "2025-05-10T09:12:23Z",
+  "address": {
+    "street": "9932 Mountain View",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zipcode": "19142"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "657-261-9400"
+    },
+    {
+      "type": "work",
+      "number": "518-741-3161"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": false,
+      "sms": false
+    },
+    "theme": "dark"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2024-04-10T07:18:52Z",
+    "last_login": "2025-05-06T17:00:56Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Uses multiple devices for access."
+}

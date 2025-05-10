@@ -1,0 +1,36 @@
+{
+  "id": 16,
+  "name": "Elizabeth Jones",
+  "email": "elizabeth.jones@sample.org",
+  "age": 42,
+  "timestamp": "2025-05-10T03:44:32Z",
+  "address": {
+    "street": "1873 Market Street",
+    "city": "Denver",
+    "state": "CO",
+    "zipcode": "80267"
+  },
+  "phoneNumbers": [
+    {
+      "type": "mobile",
+      "number": "212-463-7194"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "light"
+  },
+  "accountStatus": {
+    "active": false,
+    "created_at": "2022-02-13T15:03:39Z",
+    "last_login": "2025-05-02T00:48:10Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Technical background, frequent feature requester."
+}

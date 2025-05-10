@@ -1,0 +1,40 @@
+{
+  "id": 52,
+  "name": "Margaret Perez",
+  "email": "margaret.perez@sample.org",
+  "age": 53,
+  "timestamp": "2025-05-09T22:09:45Z",
+  "address": {
+    "street": "8325 Lake Drive",
+    "city": "San Antonio",
+    "state": "TX",
+    "zipcode": "78254"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "305-868-7063"
+    },
+    {
+      "type": "work",
+      "number": "212-467-4388"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": true,
+      "sms": true
+    },
+    "theme": "green"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2022-02-26T21:07:34Z",
+    "last_login": "2025-05-06T11:04:27Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Participates in beta testing program."
+}

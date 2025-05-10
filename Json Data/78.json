@@ -1,0 +1,40 @@
+{
+  "id": 78,
+  "name": "Joseph Moore",
+  "email": "joseph.moore@sample.org",
+  "age": 42,
+  "timestamp": "2025-05-10T05:36:02Z",
+  "address": {
+    "street": "4456 Hill Road",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zipcode": "46232"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "214-877-3532"
+    },
+    {
+      "type": "work",
+      "number": "312-452-6910"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": false,
+      "sms": true
+    },
+    "theme": "green"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2024-01-06T12:24:55Z",
+    "last_login": "2025-05-04T11:18:25Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Early adopter of new features."
+}

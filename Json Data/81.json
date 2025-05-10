@@ -1,0 +1,40 @@
+{
+  "id": 81,
+  "name": "Jennifer Rodriguez",
+  "email": "jennifer.rodriguez@example.com",
+  "age": 58,
+  "timestamp": "2025-05-09T07:54:22Z",
+  "address": {
+    "street": "9019 Sunset Boulevard",
+    "city": "Austin",
+    "state": "TX",
+    "zipcode": "78756"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "714-463-2158"
+    },
+    {
+      "type": "work",
+      "number": "626-862-6970"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": false,
+      "sms": false
+    },
+    "theme": "dark"
+  },
+  "accountStatus": {
+    "active": false,
+    "created_at": "2022-06-25T03:28:06Z",
+    "last_login": "2025-05-02T02:53:47Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Educational account for classroom use."
+}

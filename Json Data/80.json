@@ -1,0 +1,36 @@
+{
+  "id": 80,
+  "name": "Lisa Ramirez",
+  "email": "lisa.ramirez@example.com",
+  "age": 62,
+  "timestamp": "2025-05-10T10:50:07Z",
+  "address": {
+    "street": "6122 School Road",
+    "city": "Chicago",
+    "state": "IL",
+    "zipcode": "60622"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "401-309-5197"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": false,
+      "sms": false
+    },
+    "theme": "contrast"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2022-05-01T04:23:16Z",
+    "last_login": "2025-05-06T18:11:38Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Prefers email contact over phone."
+}

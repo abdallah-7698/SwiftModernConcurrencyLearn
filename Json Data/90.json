@@ -1,0 +1,40 @@
+{
+  "id": 90,
+  "name": "Kenneth Nelson",
+  "email": "kenneth.nelson@example.com",
+  "age": 37,
+  "timestamp": "2025-05-10T00:23:53Z",
+  "address": {
+    "street": "2012 Main St",
+    "city": "San Diego",
+    "state": "CA",
+    "zipcode": "92154"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "424-775-9477"
+    },
+    {
+      "type": "work",
+      "number": "714-690-3473"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "light"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-05-06T10:57:23Z",
+    "last_login": "2025-05-04T13:53:17Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Premium subscriber since 2023."
+}

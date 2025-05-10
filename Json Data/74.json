@@ -1,0 +1,40 @@
+{
+  "id": 74,
+  "name": "Donald King",
+  "email": "donald.king@example.com",
+  "age": 48,
+  "timestamp": "2025-05-09T12:00:00Z",
+  "address": {
+    "street": "3595 Maple Road",
+    "city": "Seattle",
+    "state": "WA",
+    "zipcode": "98123"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "314-733-4041"
+    },
+    {
+      "type": "work",
+      "number": "678-753-9976"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "classic"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2022-06-29T13:21:01Z",
+    "last_login": "2025-05-02T19:26:04Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Requires high-priority support."
+}

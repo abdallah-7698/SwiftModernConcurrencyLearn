@@ -1,0 +1,41 @@
+{
+  "id": 65,
+  "name": "Sandra King",
+  "email": "sandra.king@sample.org",
+  "age": 39,
+  "timestamp": "2025-05-10T11:25:19Z",
+  "address": {
+    "street": "2427 School Road",
+    "city": "Chicago",
+    "state": "IL",
+    "zipcode": "60657"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "314-723-4460"
+    },
+    {
+      "type": "work",
+      "number": "713-976-7796"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "light"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-01-09T14:38:37Z",
+    "last_login": "2025-05-10T02:15:26Z"
+  },
+  "roles": [
+    "user",
+    "viewer"
+  ],
+  "notes": "Has accessibility requirements."
+}

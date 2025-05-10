@@ -1,0 +1,40 @@
+{
+  "id": 53,
+  "name": "Joshua Baker",
+  "email": "joshua.baker@sample.org",
+  "age": 36,
+  "timestamp": "2025-05-09T21:20:09Z",
+  "address": {
+    "street": "2981 Elm Street",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zipcode": "32229"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "469-930-7028"
+    },
+    {
+      "type": "work",
+      "number": "757-606-9614"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": false,
+      "sms": true
+    },
+    "theme": "purple"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-03-06T19:40:31Z",
+    "last_login": "2025-05-02T23:06:58Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Early adopter of new features."
+}

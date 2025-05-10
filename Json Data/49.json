@@ -1,0 +1,40 @@
+{
+  "id": 49,
+  "name": "Michael Miller",
+  "email": "michael.miller@sample.org",
+  "age": 64,
+  "timestamp": "2025-05-10T08:08:15Z",
+  "address": {
+    "street": "3833 Summit Drive",
+    "city": "Boston",
+    "state": "MA",
+    "zipcode": "02124"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "314-540-5567"
+    },
+    {
+      "type": "work",
+      "number": "425-943-1600"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": true
+    },
+    "theme": "purple"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2024-07-13T04:23:19Z",
+    "last_login": "2025-05-05T08:58:36Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "High volume user with extensive history."
+}

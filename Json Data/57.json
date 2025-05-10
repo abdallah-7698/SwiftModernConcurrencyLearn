@@ -1,0 +1,41 @@
+{
+  "id": 57,
+  "name": "Sarah Johnson",
+  "email": "sarah.johnson@sample.org",
+  "age": 39,
+  "timestamp": "2025-05-09T03:26:54Z",
+  "address": {
+    "street": "5217 Lake Drive",
+    "city": "Chicago",
+    "state": "IL",
+    "zipcode": "60682"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "657-341-9626"
+    },
+    {
+      "type": "work",
+      "number": "615-862-9986"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": false,
+      "sms": false
+    },
+    "theme": "pastel"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2024-06-27T16:32:27Z",
+    "last_login": "2025-05-02T19:41:56Z"
+  },
+  "roles": [
+    "user",
+    "admin"
+  ],
+  "notes": "Has accessibility requirements."
+}

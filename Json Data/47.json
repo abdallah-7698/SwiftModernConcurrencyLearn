@@ -1,0 +1,41 @@
+{
+  "id": 47,
+  "name": "Donna Wilson",
+  "email": "donna.wilson@sample.org",
+  "age": 31,
+  "timestamp": "2025-05-09T01:30:11Z",
+  "address": {
+    "street": "8697 Broadway",
+    "city": "Charlotte",
+    "state": "NC",
+    "zipcode": "28222"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "415-850-3696"
+    },
+    {
+      "type": "work",
+      "number": "281-915-1368"
+    }
+  ],
+  "preferences": {
+    "newsletter": false,
+    "notifications": {
+      "email": false,
+      "sms": false
+    },
+    "theme": "system"
+  },
+  "accountStatus": {
+    "active": false,
+    "created_at": "2022-06-22T16:57:00Z",
+    "last_login": "2025-05-01T21:21:44Z"
+  },
+  "roles": [
+    "user",
+    "premium"
+  ],
+  "notes": "Technical background, frequent feature requester."
+}

@@ -1,0 +1,40 @@
+{
+  "id": 46,
+  "name": "Linda Martinez",
+  "email": "linda.martinez@sample.org",
+  "age": 29,
+  "timestamp": "2025-05-09T12:09:54Z",
+  "address": {
+    "street": "8170 Ocean Drive",
+    "city": "Houston",
+    "state": "TX",
+    "zipcode": "77096"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "650-694-8416"
+    },
+    {
+      "type": "work",
+      "number": "732-961-1324"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": true
+    },
+    "theme": "green"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-09-10T04:21:40Z",
+    "last_login": "2025-05-01T05:34:10Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Frequent contributor to community forums."
+}

@@ -1,0 +1,40 @@
+{
+  "id": 18,
+  "name": "Matthew Mitchell",
+  "email": "matthew.mitchell@sample.org",
+  "age": 60,
+  "timestamp": "2025-05-09T18:38:42Z",
+  "address": {
+    "street": "8537 Hill Road",
+    "city": "New York",
+    "state": "NY",
+    "zipcode": "10055"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "432-330-5655"
+    },
+    {
+      "type": "work",
+      "number": "630-613-1915"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": false,
+      "sms": false
+    },
+    "theme": "pastel"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2024-10-24T13:32:13Z",
+    "last_login": "2025-05-07T07:48:09Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Enterprise customer with multiple seats."
+}

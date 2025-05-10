@@ -1,0 +1,40 @@
+{
+  "id": 9,
+  "name": "Brian Martin",
+  "email": "brian.martin@example.com",
+  "age": 32,
+  "timestamp": "2025-05-09T13:10:05Z",
+  "address": {
+    "street": "1620 Church Street",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zipcode": "76112"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "619-349-3800"
+    },
+    {
+      "type": "work",
+      "number": "615-993-5204"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "green"
+  },
+  "accountStatus": {
+    "active": false,
+    "created_at": "2023-04-12T05:14:46Z",
+    "last_login": "2025-05-08T14:39:27Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Uses legacy features extensively."
+}

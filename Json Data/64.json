@@ -1,0 +1,40 @@
+{
+  "id": 64,
+  "name": "Linda Campbell",
+  "email": "linda.campbell@example.com",
+  "age": 63,
+  "timestamp": "2025-05-10T01:38:39Z",
+  "address": {
+    "street": "4053 Sunset Boulevard",
+    "city": "Denver",
+    "state": "CO",
+    "zipcode": "80278"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "469-265-4493"
+    },
+    {
+      "type": "work",
+      "number": "425-873-9531"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "pastel"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-11-24T12:20:10Z",
+    "last_login": "2025-05-05T00:25:33Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "International user with special timezone considerations."
+}

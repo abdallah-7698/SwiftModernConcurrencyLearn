@@ -1,0 +1,40 @@
+{
+  "id": 97,
+  "name": "Matthew Clark",
+  "email": "matthew.clark@sample.org",
+  "age": 36,
+  "timestamp": "2025-05-09T14:33:06Z",
+  "address": {
+    "street": "133 Broadway",
+    "city": "Columbus",
+    "state": "OH",
+    "zipcode": "43211"
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "314-771-7317"
+    },
+    {
+      "type": "work",
+      "number": "424-568-4596"
+    }
+  ],
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": false
+    },
+    "theme": "classic"
+  },
+  "accountStatus": {
+    "active": true,
+    "created_at": "2023-02-05T05:55:22Z",
+    "last_login": "2025-05-05T01:24:41Z"
+  },
+  "roles": [
+    "user"
+  ],
+  "notes": "Early adopter of new features."
+}
