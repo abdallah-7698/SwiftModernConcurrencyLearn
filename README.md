@@ -8,4 +8,4 @@ To serve the `Data` folder locally so that the Swift project can fetch data from
 
 ```bash
 cd Data
-python3 -m http.server 8000
+python3 -m http.server 8080
