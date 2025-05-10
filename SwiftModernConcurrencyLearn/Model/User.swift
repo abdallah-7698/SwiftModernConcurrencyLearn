@@ -6,6 +6,14 @@
 //
 import Foundation
 
+struct UserFilesResponse: Codable {
+    var userFiles: [URL]
+
+    enum CodingKeys: String, CodingKey {
+        case userFiles = "user_files"
+    }
+}
+
 struct User: Codable {
     let id: Int
     let name: String

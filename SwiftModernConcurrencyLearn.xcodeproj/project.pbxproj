@@ -6,11 +6,29 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXCopyFilesBuildPhase section */
+		3F2DE68D2DCF476200D832FF /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		3FFD0B282DCECB5600D83822 /* SwiftModernConcurrencyLearn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftModernConcurrencyLearn.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		3F2DE6782DCF44D000D832FF /* NetworkingTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = NetworkingTests;
+			sourceTree = "<group>";
+		};
 		3FFD0B2A2DCECB5600D83822 /* SwiftModernConcurrencyLearn */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = SwiftModernConcurrencyLearn;
@@ -29,10 +47,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3F2DE6882DCF476200D832FF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		3FFD0B1F2DCECB5600D83822 = {
 			isa = PBXGroup;
 			children = (
 				3FFD0B2A2DCECB5600D83822 /* SwiftModernConcurrencyLearn */,
+				3F2DE6782DCF44D000D832FF /* NetworkingTests */,
+				3F2DE6882DCF476200D832FF /* Frameworks */,
 				3FFD0B292DCECB5600D83822 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,6 +82,7 @@
 				3FFD0B242DCECB5600D83822 /* Sources */,
 				3FFD0B252DCECB5600D83822 /* Frameworks */,
 				3FFD0B262DCECB5600D83822 /* Resources */,
+				3F2DE68D2DCF476200D832FF /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -251,7 +279,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = Networking;
+				DEVELOPMENT_ASSET_PATHS = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -279,7 +307,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = Networking;
+				DEVELOPMENT_ASSET_PATHS = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;

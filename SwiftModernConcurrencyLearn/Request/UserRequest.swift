@@ -1,21 +1,17 @@
-//
-//  UserFilesRequest 2.swift
-//  SwiftModernConcurrencyLearn
-//
-//  Created by name on 10/05/2025.
-//
+import Foundation
 
-
-struct UserFilesRequest: RequestType {
+struct UserRequest: RequestType {
  
-    public var baseUrl: URL {URL(string: "http://localhost:8080/")!}
-    public var path: String { "index.json" }
+    public var baseUrl: URL
+    public var path: String = String()
     public var method: String = "GET"
     
     var validStatusCode: [Int] = [200]
-    
-    public let responseDecoder: (Data) throws -> UserFilesResponse = { data in
+        
+    public let responseDecoder: (Data) throws -> User = { data in
         try JSONDecoder().decode(ResponseType.self, from: data)
     }
     
+    // get the url
+    init (baseUrl: URL) {  self.baseUrl = baseUrl }
 }

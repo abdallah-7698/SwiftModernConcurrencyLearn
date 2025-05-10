@@ -1,15 +1,12 @@
-//
-//  File.swift
-//  SwiftModernConcurrencyLearn
-//
-//  Created by name on 10/05/2025.
-//
 
 import Foundation
 
+@MainActor
 class UserListViewModel: ObservableObject {
     
     @Published var userFiles: [URL] = []
+    
+    init () { getData() }
     
     func getData(){
         Task {
